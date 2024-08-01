@@ -40,7 +40,7 @@ date = date.today().strftime("%Y-%m-%d")
 time = datetime.now().time().strftime("%H:%M:%S")
 
 #Posting data in Sheety
-sheety_url = "https://api.sheety.co/3b56d3183de8a70957b7d4b9742a1186/myWorkouts/workouts"
+sheety_url = "https://api.sheety.co/" #Your url here 
 
 
 
